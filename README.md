@@ -1,4 +1,4 @@
-##  Nouvelle
+## Nouvelle
 Esprit curieux.  
 J'aime comprendre comment les systèmes fonctionnent réellement, du code de haut niveau au code de bas niveau.
 
