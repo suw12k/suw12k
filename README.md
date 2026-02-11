@@ -7,7 +7,7 @@ Je crée des outils, j'analyse des fichiers binaires et je démonte des système
 
 ---
 
-## Compétences
+## 🧠 Compétences
 - Initiation à la rétro‑ingénierie, au débogage et au désassemblage  
 - Bases en programmation bas niveau (C / C++ / ASM)  
 - Premières notions sur le développement de drivers  
@@ -18,7 +18,7 @@ Je crée des outils, j'analyse des fichiers binaires et je démonte des système
 - Utilisation de Linux : commandes de base, permissions, services  
 
 
-## Langages
+## 🛠️ Langages
 HTML · CSS · JavaScript · React · Bash · Java · Python
 
 ---
